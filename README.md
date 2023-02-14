@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi , I'm Razan Ahed Alhasan
+## a Software Emgineer :woman_technologist:
+🔭 I’m currently studying at Palestine Technical University - Kadoorie.
+🌱 I’m currently learning Reactjs.
 
 <!--
 **Razan-Alhasan/Razan-Alhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
