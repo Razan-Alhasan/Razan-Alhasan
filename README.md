@@ -1,8 +1,9 @@
 # Hi , I'm **_Razan Ahed Alhasan_**
-## a Software Engineer :woman_technologist:
+## Full Stack Engineer, Reactjs | Nodejs :woman_technologist:
 #### 🔭 I studied Computer Systems Engineering in Palestine Technical University - Kadoorie.
-#### 🌱 I’m currently learning Reactjs.
+#### 🌱 I’m currently learning Reactjs & Nodejs.
 #### 📫 How to reach me: razan_alhasan@outlook.com
+#### 💬 Ask me about anything: razan_alhasan@outlook.com
 <!--
 **Razan-Alhasan/Razan-Alhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
