@@ -1,6 +1,6 @@
 # Hi , I'm **_Razan Ahed Alhasan_**
 ## Full Stack Engineer, Reactjs | Nodejs :woman_technologist:
-#### 🔭 I studied Computer Systems Engineering in Palestine Technical University - Kadoorie.
+#### 🔭 I'm a fresh Computer Systems Engineer Graduate from Palestine Technical University Kadoorie (PTUK).
 #### 🌱 I’m currently learning Reactjs & Nodejs.
 #### 📫 How to reach me: razan_alhasan@outlook.com
 #### 💬 Ask me about anything: razan_alhasan@outlook.com
