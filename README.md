@@ -2,8 +2,8 @@
 ## Full Stack Engineer, Reactjs | Nodejs :woman_technologist: , Data Analyst
 #### 🔭 I'm a Computer Systems Engineer Graduate from Palestine Technical University Kadoorie (PTUK).
 #### 🌱 I’m currently foxus on Data Analyst.
-#### 📫 How to reach me: razan_alhasan@outlook.com
-#### 💬 Ask me about anything: razan_alhasan@outlook.com
+#### 📫 How to reach me: razan.ahed.alhasan@gmail.com
+#### 💬 Ask me about anything: razan.ahed.alhasan@gmail.com
 <!--
 **Razan-Alhasan/Razan-Alhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
